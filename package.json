@@ -1,0 +1,23 @@
+{
+  "name": "pony-challenge",
+  "version": "1.0.0",
+  "description": "https://stackoverflow.com/jobs/64810/do-you-have-what-it-takes-to-save-the-pony-take-trustpilot?med=clc https://ponychallenge.trustpilot.com/api-docs/index.html#/",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorinbotan/pony-chalenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorinbotan/pony-chalenge/issues"
+  },
+  "homepage": "https://github.com/dorinbotan/pony-chalenge#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
